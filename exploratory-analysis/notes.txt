@@ -1,0 +1,4 @@
+Numpy,scipy,pandas
+ Numerical Computation
+Matplotlib, Seaborn:
+ Data Visualization
